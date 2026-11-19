@@ -1,0 +1,6 @@
+{
+  "name": "鳴潮 Wuthering Waves 3D - Resonator Figurine Studio",
+  "description": "High-fidelity 3D Resonator Figurine & Diorama Studio featuring Jinhsi (今汐), Changli (長離), and Shorekeeper (守岸人), with celestial ribbons, water ripple base, and resonance VFX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
